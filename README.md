@@ -19,10 +19,10 @@ Version 1.0
       Ice Leggings
       Ice Boots
       
-    Crafting
+  Crafting
   
       All recipes resemble their counterparts but use Packed Ice as the material.
 
-    Planned Updates:
+  Planned Updates:
 
       Allow use of config.yml to add custom recipes
